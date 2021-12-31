@@ -6,7 +6,7 @@
 # Survey Form
 ## About
  
-It is one of freeCodeCamp works to receive HTML and CSS sertificate
+It is one of freeCodeCamp works to receive HTML and CSS certificate
 
 Site published at https://dkeparute.github.io/Survey-form/
 ### Objective: Build a Survey Form
